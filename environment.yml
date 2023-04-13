@@ -1,0 +1,4 @@
+name: django_radio
+channels:
+  - defaults
+prefix: /home/bruno/miniconda3/envs/django_radio
